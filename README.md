@@ -1,3 +1,8 @@
-The Autonomous Drone Flight project is a group project where two students must build a Pixhawk drone from scratch using the pieces provided to them and program it to fly on a pre-determined path without any controls.
+# Autonomous-Drone-Flight
 
-The three different files include: the library of commands created by the students for the drone, a coordinate recieving program because the drone GPS did not line up coordinates to Google Maps coordinates, and the final race program where the drone flies.
+The Autonomous Drone Flight project is a university group project where two students must build a Pixhawk drone from scratch using the pieces provided to them and program it to fly on a pre-determined path without any controls.
+
+## Features
+- Modular control code: easy to adapt different drone platforms or controllers
+- Support for different flight modes: library utilizes control loops, mission logic, stabilization, and hovering
+- Clean layout for clarity and maintainability
